@@ -1,5 +1,5 @@
-# ExerciseGo-SimpleChatRoom
-利用Socket實作簡易聊天室
+# go-Scoker
+Socket實作練習
 
 ## Build Service
     go run Service.go
